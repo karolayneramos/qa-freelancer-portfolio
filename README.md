@@ -1,53 +1,42 @@
-# qa-freelancer-portfolio
-Meu primeiro projeto de QA • Testes manuais
-
 # QA Freelance — Testes Manuais
 
 ## Sobre o projeto
 
-Este repositório apresenta meu primeiro trabalho como freelancer na área de Quality Assurance (QA), realizando testes manuais em um aplicativo de gestão de tarefas.
+Este repositório apresenta minha primeira experiência como freelancer na área de Quality Assurance (QA), com foco em testes manuais de um aplicativo de gestão de tarefas.
 
-Durante o projeto, participei de ciclos de testes com o objetivo de identificar comportamentos inesperados, documentar defeitos e contribuir para a melhoria da qualidade do software.
+O trabalho envolveu investigação de comportamentos inesperados, documentação de defeitos, análise de resultados e acompanhamento de ciclos de teste.
 
-Por questões de confidencialidade, o cliente e informações internas do projeto não são identificados neste repositório.
-
-## Atividades realizadas
-
-- Execução de testes manuais.
-- Investigação de comportamentos inesperados.
-- Identificação e documentação de bugs.
-- Registro de sugestões de melhorias.
-- Acompanhamento dos resultados dos ciclos de teste.
-- Verificação das ocorrências após o tratamento dos problemas.
+Por questões de confidencialidade, o cliente e informações internas do sistema foram omitidos.
 
 ## Resultados do projeto
 
-Ao longo de 8 ciclos de teste, o relatório final registrou:
-
+- **8 ciclos de teste**
 - **97 ocorrências registradas**
 - **88 bugs**
-- **3 solicitações de funcionalidades (features)**
+- **3 features**
 - **6 melhorias**
-- **100% das ocorrências resolvidas**, conforme o relatório.
+- **100% das ocorrências resolvidas**, conforme o relatório final.
 
-## Conhecimentos aplicados
+## Documentação
 
-- Fundamentos de Quality Assurance (QA)
+- [Relatório final resumido](docs/relatorio-final.md)
+- [Casos de teste — exemplos](docs/casos-de-teste.md)
+- [Relatório de bugs — exemplos](docs/relatorio-de-bugs.md)
+
+## Atividades realizadas
+
 - Testes manuais
-- Análise do comportamento de aplicações
-- Documentação de defeitos
-- Análise de resultados de testes
+- Investigação de defeitos
+- Documentação de bugs
+- Análise de resultados
+- Acompanhamento de ocorrências
 
 ## Aprendizados
 
-Essa foi minha primeira experiência como freelancer em QA e uma oportunidade de colocar em prática os conhecimentos que venho desenvolvendo na área.
-
-Durante o projeto, aprendi a investigar diferentes comportamentos do sistema, observar detalhes que poderiam passar despercebidos e documentar os problemas de maneira clara.
-
-A experiência também reforçou a importância de testar diferentes situações e acompanhar os resultados para contribuir com a qualidade do software.
+Essa experiência me permitiu colocar em prática conhecimentos de QA, desenvolver atenção aos detalhes e compreender a importância de investigar, reproduzir e documentar problemas de software.
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação e estou construindo minha carreira na área de Quality Assurance, com foco em testes manuais e melhoria contínua da qualidade de software.
+Sou estudante de Sistemas de Informação e estou construindo minha carreira em Quality Assurance, com foco em testes manuais e melhoria contínua da qualidade de software.
 
 Este projeto faz parte do meu portfólio profissional.
