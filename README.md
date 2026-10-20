@@ -1,42 +1,53 @@
 # qa-freelancer-portfolio
 Meu primeiro projeto de QA • Testes manuais
 
-# Projeto de QA — Testes Manuais
+# QA Freelance — Testes Manuais
 
 ## Sobre o projeto
 
-Este repositório apresenta meu primeiro trabalho como freelancer na área de Quality Assurance (QA), no qual realizei testes manuais em um sistema de gestão de tarefas.
+Este repositório apresenta meu primeiro trabalho como freelancer na área de Quality Assurance (QA), realizando testes manuais em um aplicativo de gestão de tarefas.
 
-O objetivo foi avaliar o funcionamento das funcionalidades, identificar comportamentos inesperados, documentar bugs e contribuir com a melhoria da qualidade do sistema.
+Durante o projeto, participei de ciclos de testes com o objetivo de identificar comportamentos inesperados, documentar defeitos e contribuir para a melhoria da qualidade do software.
 
-Por questões de confidencialidade, o nome do cliente e informações sensíveis do projeto foram omitidos.
+Por questões de confidencialidade, o cliente e informações internas do projeto não são identificados neste repositório.
 
 ## Atividades realizadas
 
-- Execução de testes manuais funcionais e exploratórios.
-- Elaboração e execução de cenários e casos de teste.
+- Execução de testes manuais.
+- Investigação de comportamentos inesperados.
 - Identificação e documentação de bugs.
-- Registro de passos para reprodução dos problemas.
-- Análise dos resultados esperados e obtidos.
-- Sugestões de melhorias para o sistema.
-- Acompanhamento dos ciclos de teste e das correções.
+- Registro de sugestões de melhorias.
+- Acompanhamento dos resultados dos ciclos de teste.
+- Verificação das ocorrências após o tratamento dos problemas.
 
-## Ferramentas e conhecimentos aplicados
+## Resultados do projeto
 
+Ao longo de 8 ciclos de teste, o relatório final registrou:
+
+- **97 ocorrências registradas**
+- **88 bugs**
+- **3 solicitações de funcionalidades (features)**
+- **6 melhorias**
+- **100% das ocorrências resolvidas**, conforme o relatório.
+
+## Conhecimentos aplicados
+
+- Fundamentos de Quality Assurance (QA)
 - Testes manuais
-- Jira e documentação de defeitos, quando aplicável
-- Análise de requisitos e comportamento do sistema
-- Registro e acompanhamento de bugs
-- Testes de regressão, quando aplicável
+- Análise do comportamento de aplicações
+- Documentação de defeitos
+- Análise de resultados de testes
 
-## Principais aprendizados
+## Aprendizados
 
-Essa experiência me permitiu colocar em prática os conhecimentos de QA, desenvolver um olhar mais crítico sobre o comportamento de um sistema e compreender a importância de documentar os problemas de forma clara.
+Essa foi minha primeira experiência como freelancer em QA e uma oportunidade de colocar em prática os conhecimentos que venho desenvolvendo na área.
 
-Também aprendi que testar não é apenas verificar se uma funcionalidade funciona, mas investigar diferentes situações, observar comportamentos inesperados e buscar oportunidades de melhoria.
+Durante o projeto, aprendi a investigar diferentes comportamentos do sistema, observar detalhes que poderiam passar despercebidos e documentar os problemas de maneira clara.
+
+A experiência também reforçou a importância de testar diferentes situações e acompanhar os resultados para contribuir com a qualidade do software.
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação e estou desenvolvendo minha carreira na área de Quality Assurance, com foco em testes manuais e melhoria contínua da qualidade de software.
+Sou estudante de Sistemas de Informação e estou construindo minha carreira na área de Quality Assurance, com foco em testes manuais e melhoria contínua da qualidade de software.
 
 Este projeto faz parte do meu portfólio profissional.
