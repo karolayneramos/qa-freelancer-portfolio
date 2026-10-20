@@ -1,4 +1,4 @@
-# QA Freelance — Testes Manuais
+# QA Freelancer — Testes Manuais
 
 ## Sobre o projeto
 
